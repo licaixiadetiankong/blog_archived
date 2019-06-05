@@ -30,6 +30,7 @@ tags: 日语原版书籍
 
 <img src="../images/MediaQRcode.jpg" height="150" width="150"> 
 
+微信公众号二维码
 
 
 ## **图书汇总一览表**
