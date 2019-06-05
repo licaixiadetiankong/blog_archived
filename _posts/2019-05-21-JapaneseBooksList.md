@@ -23,7 +23,7 @@ tags: 日语原版书籍
 - 直接微信找我：
 - 不脸放上自己的微信公众号：5点钟的1元日语书房（分享一些日语相关的思考和活动）
 
-![MediaQRcode](../images/MediaQRcode.jpg)
+![MediaQRcode](https://github.com/licaixiadetiankong/licaixiadetiankong.github.io/blob/master/images/MediaQRcode.jpg)
 
 
 
