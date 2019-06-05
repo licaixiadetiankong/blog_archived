@@ -29,9 +29,9 @@ tags: 日语原版书籍
 
   
 
-![MediaQRcode](https://github.com/licaixiadetiankong/licaixiadetiankong.github.io/blob/master/images/MediaQRcode.jpg)
-
-
+```
+<img src="/images/MediaQRcode.jpg" height="150" width="150"> 
+```
 
 
 
