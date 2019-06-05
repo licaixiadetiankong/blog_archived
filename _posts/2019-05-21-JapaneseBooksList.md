@@ -27,11 +27,8 @@ tags: 日语原版书籍
 
 - 不脸放上自己的微信公众号：5点钟的1元日语书房（分享一些日语相关的思考和活动）
 
-  
 
-```
 <img src="/images/MediaQRcode.jpg" height="150" width="150"> 
-```
 
 
 
